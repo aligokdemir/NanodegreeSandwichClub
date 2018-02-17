@@ -12,6 +12,8 @@
 
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
+    <string name="also_known_as_not_available">There is no other name for the sandwich.</string>
+    <string name="place_of_origin_error_unknown">Unknown</string>
 
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
